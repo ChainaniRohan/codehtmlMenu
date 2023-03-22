@@ -43,5 +43,12 @@
 }
 
 body{
+  background-image: url(final/bg4.jpg);
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+  background-attachment: fixed;
+  
+
     background-color: bisque;
 }
