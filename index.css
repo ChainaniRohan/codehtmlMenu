@@ -74,11 +74,11 @@ a {
   height: 5%;
 }
 
-#call{
+.left{
   float: left;
   text-align: left;
 }
-#wtsp{
+.right{
   float:right;
  text-align: right;
 }
