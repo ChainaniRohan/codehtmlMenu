@@ -59,6 +59,9 @@ footer {
   padding: 1% 10%;
   background-color: #333333;
   color: white;
+  border: 12px solid #404f4e;
+  width: 100%;
+  
 }
 a {
   color: white;
