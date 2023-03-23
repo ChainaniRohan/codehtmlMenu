@@ -61,3 +61,27 @@ footer {
 a {
   color: white;
 }
+
+/* #mainLogo {
+  height: 5%;
+  display: block;
+  max-height: 50px;
+}
+#downloadLogo {
+  width: 25%;
+  height: auto;
+  display: block;
+  max-height: 50px;
+}
+nav{
+  height: 4%;
+  max-height: 50px;
+  width: 100%;
+} */
+
+#downloadLogo {
+  position: fixed;
+  top: 1%;
+  right: 1%;
+  height: 8%;
+}
