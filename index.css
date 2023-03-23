@@ -56,7 +56,7 @@ body{
 }
 footer {
   text-align: center;
-  padding: 3px;
+  padding: 1% 10%;
   background-color: #333333;
   color: white;
 }
@@ -72,4 +72,13 @@ a {
   top: 1%;
   right: 1%;
   height: 5%;
+}
+
+#call{
+  float: left;
+  text-align: left;
+}
+#wtsp{
+  float:right;
+ text-align: right;
 }
