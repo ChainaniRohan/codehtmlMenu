@@ -1,3 +1,5 @@
+
+
 * {
   box-sizing: border-box;
 }
@@ -60,24 +62,9 @@ footer {
 }
 a {
   color: white;
+  text-decoration: none;
 }
 
-/* #mainLogo {
-  height: 5%;
-  display: block;
-  max-height: 50px;
-}
-#downloadLogo {
-  width: 25%;
-  height: auto;
-  display: block;
-  max-height: 50px;
-}
-nav{
-  height: 4%;
-  max-height: 50px;
-  width: 100%;
-} */
 
 #downloadLogo {
   /* position: fixed; */
