@@ -80,7 +80,8 @@ nav{
 } */
 
 #downloadLogo {
-  position: fixed;
+  /* position: fixed; */
+  position: absolute;
   top: 1%;
   right: 1%;
   height: 5%;
