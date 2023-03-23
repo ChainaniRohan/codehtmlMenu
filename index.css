@@ -55,6 +55,7 @@ body{
     background-color: bisque;
 }
 footer {
+  text-shadow: 1px 1px black;
   text-align: center;
   padding: 3% 10% 1% 10%;
   background-color: #333333ee;
@@ -91,3 +92,5 @@ a {
   height: auto;
   align-items: center;
 }
+p {
+ }
