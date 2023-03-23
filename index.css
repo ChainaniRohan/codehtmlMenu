@@ -56,8 +56,8 @@ body{
 }
 footer {
   text-align: center;
-  padding: 1% 10%;
-  background-color: #333333;
+  padding: 3% 10% 1% 10%;
+  background-color: #333333ee;
   color: white;
   border: 12px solid #404f4e;
   width: 100%;
@@ -84,4 +84,10 @@ a {
 .right{
   float:right;
  text-align: right;
+}
+
+#logo {
+  width: 10%;
+  height: auto;
+  align-items: center;
 }
