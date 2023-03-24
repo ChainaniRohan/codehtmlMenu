@@ -92,3 +92,17 @@ a {
   height: auto;
   align-items: center;
 }
+h6 {
+  padding: 0px;
+  display: inline;
+  /* float: right; */
+  font-size: 8px;
+}
+
+/* p {
+  padding-bottom: 1px;
+} */
+
+h4 {
+  padding: 2px;
+}
