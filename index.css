@@ -65,7 +65,8 @@ footer {
   
 }
 a {
-  color: rgb(186, 219, 253);
+  /* color: rgb(186, 219, 253); */
+  color: #dba45a;
   text-decoration: none;
 }
 
